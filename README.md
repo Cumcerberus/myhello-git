@@ -24,7 +24,7 @@
 - Flujo colaborativo
 - Herramientas destacadas
 - Ejemplos prácticos
-
+-un monton de cosas
 Y mucho más...
 
 ## ¡Nuevo! Libro de Git & GitHub desde cero
